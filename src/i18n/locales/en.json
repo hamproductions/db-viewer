@@ -1,0 +1,12 @@
+{
+  "title": "DB Viewer",
+  "description": "Drop your DB here",
+  "dialog": {
+    "close": "Close"
+  },
+  "footer": {
+    "created_by": "Created by",
+    "footer_text": "",
+    "source_code": ""
+  }
+}
